@@ -1,0 +1,1 @@
+# twrp-device_rockchip_rk3066-TV
